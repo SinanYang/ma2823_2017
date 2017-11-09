@@ -1,4 +1,4 @@
-# ma2823_2017
+# ma2823_201
 
 This repository holds the computer labs for the MA2823 course (Introduction to Machine Learning) at CentraleSupelec in Fall 2017. The course website is at http://tinyurl.com/ma2823-2017 
 
@@ -23,5 +23,5 @@ To __check your installation__, try launching Jupyter (e.g. by typing `jupyter n
   import seaborn
   import matplotlib
   ```
-  
+
 
